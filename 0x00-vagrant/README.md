@@ -1,1 +1,1 @@
-uname_linux
+vagrant
